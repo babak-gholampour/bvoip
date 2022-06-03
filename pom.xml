@@ -7,18 +7,7 @@
   <artifactId>final</artifactId>
   <version>1.0</version>
 <dependencies>
-<dependency>
-<groupId>com.android.support</groupId>
-<artifactId>support-core-utils</artifactId>
-<version>28.0.0</version>
-<scope>compile</scope>
-</dependency>
-<dependency>
-<groupId>com.android.support</groupId>
-<artifactId>multidex</artifactId>
-<version>1.0.3</version>
-<scope>compile</scope>
-</dependency>
+
 <dependency>
 <groupId>com.google.code.gson</groupId>
 <artifactId>gson</artifactId>
@@ -26,12 +15,5 @@
 <scope>compile</scope>
 </dependency>
 </dependencies>
-     
-     	<repositories>
-		<repository>
-		    <id>maven</id>
-		    <url>https://maven.google.com</url>
-		</repository>
-	</repositories>
      
 </project>
